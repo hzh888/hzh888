@@ -6,12 +6,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
-  
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 </div>
 
-#  🙋 Hello
 <div align="center">
 <table>
 <tr><td>
@@ -22,7 +20,6 @@
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 <div>&nbsp;</div>
 </td></tr>
-
 <tr><td>
 
 ### 🏢 我的技能
@@ -53,7 +50,12 @@
 
 - 🌱 正在学习:
   ![Static Badge](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=React&logoColor=61DAFB)
-
 </td></tr>
-</table>  
+</table>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzh888&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&&line_height=21&theme=algolia)](https://github.com/hzh888)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hzh888&layout=compact&theme=algolia)](https://github.com/hzh888)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=hzh888&hide_border=%E5%81%87)](https://git.io/streak-stats)
+
 </div>
