@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=你好，世界" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=你好，世界&section=header&fontAlign=50&fontAlignY=40" />
  
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
@@ -49,15 +49,12 @@
 </td></tr>
 </table>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzh888&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&theme=algolia)](https://github.com/hzh888)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hzh888&layout=compact&theme=algolia)](https://github.com/hzh888)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hzh888&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&theme=transparent" />
+<img align="center" width="430" src="https://streak-stats.demolab.com?user=hzh888&theme=transparent&hide_border=true" />
+<br/>
+<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=hzh888&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hzh888&theme=radical&hide_border=%E5%81%87)](https://git.io/streak-stats)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hzh888&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=时间线，收束&section=footer&fontAlign=50&fontAlignY=65" />
 
 </div>
