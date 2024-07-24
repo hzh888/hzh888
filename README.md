@@ -53,9 +53,15 @@
 </td></tr>
 </table>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzh888&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&&line_height=21&theme=algolia)](https://github.com/hzh888)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hzh888&layout=compact&theme=algolia)](https://github.com/hzh888)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzh888&hide_title=true&hide_border=true&show_icons=true&card_width=550&include_all_commits=true&line_height=20&theme=algolia)](https://github.com/hzh888)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hzh888&layout=compact&card_width=430&theme=algolia)](https://github.com/hzh888)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hzh888&hide_border=%E5%81%87)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hzh888&theme=radical&hide_border=%E5%81%87)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hzh888&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 
 </div>
