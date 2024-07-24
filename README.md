@@ -2,12 +2,21 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=你好，世界&section=header&fontAlign=50&fontAlignY=40" />
 </div>
 
-## 🤺 我是谁？
+## 我是谁？
 嗨，你好，我是`hzh888`，大专学历的社畜一枚~
-- 热爱研究奇奇怪怪的东西。
+- 喜欢研究奇奇怪怪的东西。
+- 热爱旅游、摄像
 - 问就是玩原神，启动！
 
-## 🏢 技能点
+ （完蛋！自我介绍不会写了！）
+
+## 联系方式
+| 联系方式 | 账号 |
+| :-----: | :-----: |
+| 邮箱 | 2695197253@qq.com |
+| QQ | 2695197253 |
+
+## 技能点
 - 🚀 掌握一点点:
   ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
