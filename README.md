@@ -1,22 +1,13 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=你好，世界&section=header&fontAlign=50&fontAlignY=40" />
-
 </div>
 
-<div align="center">
-<table>
-<tr><td>
+## 🤺 我是谁？
+嗨，你好，我是`hzh888`，大专学历的社畜一枚~
+- 热爱研究奇奇怪怪的东西。
+- 问就是玩原神，启动！
 
-### 🤺 关于我
-<p>&emsp;&emsp;嗨，你好，我是华同学，热爱编程、测试、摄影、旅行、摸鱼。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的IT工作者。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-<div>&nbsp;</div>
-</td></tr>
-<tr><td>
-
-### 🏢 我的技能
+## 🏢 技能点
 - 🚀 掌握一点点:
   ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
@@ -44,9 +35,9 @@
 
 - 🌱 正在学习:
   ![Static Badge](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=React&logoColor=61DAFB)
-</td></tr>
-</table>
 
+## 🏢 杂七杂八
+<div align="center">
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=hzh888&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&theme=transparent" />
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=hzh888&theme=transparent&hide_border=true" />
 <br/>
