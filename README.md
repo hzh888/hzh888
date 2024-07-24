@@ -53,7 +53,8 @@
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=hzh888&theme=transparent&hide_border=true" />
 <br/>
 <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=hzh888&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-
+<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzh888&theme=transparent&layout=compact&langs_count=6" />
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=时间线，收束&section=footer&fontAlign=50&fontAlignY=65" />
