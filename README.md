@@ -1,9 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=你好，世界&section=header&fontAlign=50&fontAlignY=40" />
- 
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
+
 </div>
 
 <div align="center">
