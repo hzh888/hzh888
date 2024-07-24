@@ -49,7 +49,7 @@
 </td></tr>
 </table>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hzh888&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&theme=transparent" />
+<img align="center" width="430" src="https://github-readme-stats.vercel.app/api?username=hzh888&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&theme=transparent" />
 <img align="center" width="430" src="https://streak-stats.demolab.com?user=hzh888&theme=transparent&hide_border=true" />
 <br/>
 <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=hzh888&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
