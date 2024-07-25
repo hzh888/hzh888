@@ -47,8 +47,8 @@
 
 ## 🏢 杂七杂八
 <div align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzh888&theme=radical&layout=compact&langs_count=6" />
-<img align="center" src="https://stats.justsong.cn/api/bilibili/?id=170721270&lang=zh-CN&theme=algolia" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzh888&theme=buefy&layout=compact&langs_count=6&locale=cn" />
+<img align="center" src="https://stats.justsong.cn/api/bilibili/?id=170721270&lang=zh-CN&theme=vue" />
 <br><br/>
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=hzh888&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&theme=transparent" />
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=hzh888&theme=transparent&hide_border=true" />
