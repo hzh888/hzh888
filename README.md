@@ -47,14 +47,17 @@
 
 ## 🏢 杂七杂八
 <div align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzh888&theme=radical&layout=compact&langs_count=6" />
+<img align="center" src="https://stats.justsong.cn/api/bilibili/?id=170721270&lang=zh-CN&theme=algolia" />
+<br><br/>
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=hzh888&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&theme=transparent" />
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=hzh888&theme=transparent&hide_border=true" />
-<br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzh888&theme=radical&layout=compact&langs_count=6" />
-<img align="center" src="https://stats.justsong.cn/api/bilibili/?id=170721270&lang=zh-CN&theme=algolia" />
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hzh888/hzh888/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hzh888/hzh888/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+<br><br/>
 <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=hzh888&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-<br/>
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=时间线，收束&section=footer&fontAlign=50&fontAlignY=65" />
-
 </div>
