@@ -28,17 +28,17 @@
   ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=MySQL&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/MySQL-20232A?style=flat&logo=MySQL&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 - ⚙️ 常用工具:
-  ![Static Badge](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/PyCharm-20232A?style=flat&logo=PyCharm&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/GitHub-20232A?style=flat&logo=github&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/WebStorm-20232A?style=flat&logo=WebStorm&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/IntelliJ_IDEA-20232A?style=flat&logo=intellijidea&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Postman-D83B01?style=flat&logo=postman&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=flat&logo=Notepad%2B%2B&logoColor=black)
 
