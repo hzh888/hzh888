@@ -3,10 +3,11 @@
 </div>
 
 ## 我是谁？
-嗨，你好，我是`hzh888`，大专学历的社畜一枚~
+嗨，你好，我是`hzh888`，大专学历的社畜一枚~ 
 - 喜欢研究奇奇怪怪的东西。
 - 热爱旅游、摄像
 - 问就是玩原神，启动！
+- <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=hzh888.hzh888" />
 
  （完蛋！自我介绍不会写了！）
 
