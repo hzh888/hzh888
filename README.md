@@ -44,7 +44,7 @@
   ![Static Badge](https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=flat&logo=Notepad%2B%2B&logoColor=black)
 
 - 🌱 正在学习:
-  ![Static Badge](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=React&logoColor=61DAFB)
+  ![Static Badge](https://img.shields.io/badge/React-20232A?style=flat&logo=React&logoColor=61DAFB)
 
 ## 🏢 杂七杂八
 <div align="center">
