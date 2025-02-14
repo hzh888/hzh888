@@ -6,10 +6,8 @@
 嗨，你好，我是`hzh888`，大专学历的社畜一枚~ 
 - 喜欢研究奇奇怪怪的东西。
 - 热爱旅游、摄像
-- 问就是玩原神，启动！
+- 每天都在咕咕咕项目
 - <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=hzh888.hzh888" />
-
- （完蛋！自我介绍不会写了！）
 
 ## 联系方式
 | 联系方式 | 账号 |
