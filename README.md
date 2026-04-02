@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=你好，世界&section=header&fontAlign=50&fontAlignY=40" />
-</div>
 
 ## 我是谁？
 大专学历的社畜一枚~ 
@@ -58,5 +55,4 @@
 </picture>
 <br><br/>
 <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=hzh888&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=时间线，收束&section=footer&fontAlign=50&fontAlignY=65" />
 </div>
