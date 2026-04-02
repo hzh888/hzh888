@@ -1,10 +1,9 @@
 
 ## 我是谁？
-大专学历的社畜一枚~ 
+大专学历的天选牛马一枚~ 
 - 喜欢研究奇奇怪怪的东西。
 - 热爱旅游、摄像
 - 每天都在咕咕咕项目
-- <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=hzh888.hzh888" />
 
 ## 联系方式
 | 联系方式 | 账号 |
@@ -37,9 +36,8 @@
   ![Static Badge](https://img.shields.io/badge/IntelliJ_IDEA-20232A?style=flat&logo=intellijidea&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Postman-D83B01?style=flat&logo=postman&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=flat&logo=Notepad%2B%2B&logoColor=black)
-
-- 🌱 正在学习:
   ![Static Badge](https://img.shields.io/badge/React-20232A?style=flat&logo=React&logoColor=61DAFB)
+  ![Static Badge](https://img.shields.io/badge/Rust-20232A?style=flat&logo=Rust&logoColor=61DAFB)
 
 ## 🏢 杂七杂八
 <div align="center">
