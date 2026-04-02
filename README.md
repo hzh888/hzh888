@@ -25,6 +25,8 @@
   ![Static Badge](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/MySQL-20232A?style=flat&logo=MySQL&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+  ![Static Badge](https://img.shields.io/badge/React-20232A?style=flat&logo=React&logoColor=61DAFB)
+  ![Static Badge](https://img.shields.io/badge/Rust-20232A?style=flat&logo=Rust&logoColor=61DAFB)
 
 - ⚙️ 常用工具:
   ![Static Badge](https://img.shields.io/badge/PyCharm-20232A?style=flat&logo=PyCharm&logoColor=white)
@@ -36,8 +38,6 @@
   ![Static Badge](https://img.shields.io/badge/IntelliJ_IDEA-20232A?style=flat&logo=intellijidea&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Postman-D83B01?style=flat&logo=postman&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=flat&logo=Notepad%2B%2B&logoColor=black)
-  ![Static Badge](https://img.shields.io/badge/React-20232A?style=flat&logo=React&logoColor=61DAFB)
-  ![Static Badge](https://img.shields.io/badge/Rust-20232A?style=flat&logo=Rust&logoColor=61DAFB)
 
 ## 🏢 杂七杂八
 <div align="center">
